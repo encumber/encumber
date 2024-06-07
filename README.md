@@ -12,4 +12,4 @@ unlocking the power of technology, one line of code at a time.
 
 
 ```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/encumber/encumber/blob/main/ezgif.com-gif-maker_-_2022-07-15T183109.613.gif?raw=true');]{x0000}$}
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/encumber/encumber/blob/main/amazing.gif?raw=true');]{x0000}$}
